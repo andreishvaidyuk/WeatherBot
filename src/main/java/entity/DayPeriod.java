@@ -1,4 +1,4 @@
-package com.company;
+package entity;
 
 public enum DayPeriod {
     MORNING,
